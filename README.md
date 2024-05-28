@@ -1,13 +1,13 @@
 # Barker´s Hub Monorepo
 Proof of Concept
 
-Welcome to the Barker’s Hub Monorepo, the central hub for all development related to our vibrant community of BARK token holders. This monorepo houses the codebase for both the Barkesters Hub application and the Barker's Club website, providing a unified development environment for building and maintaining our digital platforms.
+Welcome to the Barker’s Hub Monorepo, the central hub for all development related to our vibrant community of BARK token holders. This monorepo houses the codebase for both the Barker´s Hub application and the Barker's Club website, providing a unified development environment for building and maintaining our digital platforms.
 
 ## Overview
 
 The Barker’s Hub Monorepo is organized into two main projects:
 
-1. **Barkesters Hub Application**: This project contains the codebase for the Barkesters Hub application, a dynamic platform that facilitates community engagement, governance, and interactions among BARKER, BARK and Club tokens holders. The application is built using Angular and leverages Solana blockchain technology to provide transparent and efficient, social and financial solutions.
+1. **Barker´s Hub Application**: This project contains the codebase for the Barker´s Hub application, a dynamic platform that facilitates community engagement, governance, and interactions among BARKER, BARK and Club tokens holders. The application is built using Angular and leverages Solana blockchain technology to provide transparent and efficient, social and financial solutions.
 
 2. **Barker's Club Website**: This project contains the codebase for the Barker's Club website, the official online presence of our community. The website serves as a gateway for newcomers to learn about the Barker's Club, explore membership benefits, and stay updated on the latest news and events. It is built using Next.js and TypeScript for a modern and responsive user experience.
 
@@ -22,8 +22,8 @@ To get started with development in the Barker’s Hub Monorepo, follow these ste
 
 2. **Navigate to the Desired Project**:
    ```
-   cd barkers-hub-app    # For the Barker’s Hub Application
-   cd barkers-club-website  # For the Barker's Club Website
+   cd Hub # For the Barker’s Hub Application
+   cd Website  # For the Barker's Club Website
    ```
 
 3. **Install Dependencies**:
@@ -48,6 +48,6 @@ We welcome contributions from members of the Barker’s Club community! Whether 
 
 ## Get in Touch
 
-If you have any questions, feedback, or suggestions regarding the Barkerster’s Club Monorepo, feel free to reach out to us through our official communication channels. Your input is valuable to us as we continue to evolve and improve our community platforms.
+If you have any questions, feedback, or suggestions regarding the Barkers’s Hub Monorepo, feel free to reach out to us through our official communication channels. Your input is valuable to us as we continue to evolve and improve our community platforms.
 
-Thank you for being a part of the Barker’s Club and BARK Protocol community! Together, we'll continue to drive positive change and innovation in the world of social finance.
+Thank you for being a part of the Barker’s Hub and BARK Protocol community! Together, we'll continue to drive positive change and innovation in the world of social finance.
