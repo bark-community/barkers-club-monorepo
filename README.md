@@ -11,6 +11,16 @@ The Barker’s Hub Monorepo is organized into two main projects:
 
 2. **Barker's Club Website**: This project contains the codebase for the Barker's Club website, the official online presence of our community. The website serves as a gateway for newcomers to learn about the Barker's Club, explore membership benefits, and stay updated on the latest news and events. It is built using Next.js and TypeScript for a modern and responsive user experience.
 
+**Option User Dashboard Frameworks:**
+
+#### UI/UX Framework:
+
+https://ui.shadcn.com/
+
+#### Dashboard Dev:
+
+https://ui.shadcn.com/examples/dashboard
+
 ## Development Setup
 
 To get started with development in the Barker’s Hub Monorepo, follow these steps:
